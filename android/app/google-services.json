@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "368098478624",
+    "firebase_url": "https://wrteam-3c294-default-rtdb.firebaseio.com",
+    "project_id": "wrteam-3c294",
+    "storage_bucket": "wrteam-3c294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368098478624:android:166994ab894c6433fa4a45",
+        "android_client_info": {
+          "package_name": "com.ebroker.wrteam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JftC4bxUXX2vHh44ogDkyRRytU8uR0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
